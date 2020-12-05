@@ -1,8 +1,9 @@
 package com.example.smartphones.model
+import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
 
-
+@Entity(tableName = "smartphoneDetails")
 data class SmartphoneDetails(
     @SerializedName("credit")
     val credit: Boolean,

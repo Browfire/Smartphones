@@ -13,7 +13,7 @@
     <string name="imageList">imageList</string>
 
     <string name="email_subject">Consulta </string>
-    <string name="email_text">Hola\nEstoy interesado en más informacion y concertar una cita.\nPor favor contactarme a este correo. </string>
+    <string name="email_text">Hola\nVi el producto _________ y me gustaría que me contactasen al siguiente número ___________.\nQuedo atento. </string>
 
     <string name="fab">fab</string>
     <string name="textName">Nombre</string>

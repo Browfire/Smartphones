@@ -50,9 +50,6 @@ class FirstFragment : Fragment(), SmartphoneAdapter.PassSmartphoneData {
 
         })
 
-        view.findViewById<Button>(R.id.button_first).setOnClickListener {
-
-        }
     }
 
     override fun passItemInfo(smartphone: SmartphoneItem) {

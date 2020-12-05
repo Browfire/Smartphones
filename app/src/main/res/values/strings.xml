@@ -1,18 +1,17 @@
 <resources>
-    <string name="app_name">Mansiones</string>
+    <string name="app_name">Smartphones</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="previous">Volver</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="imageDescription">imageDescription</string>
     <string name="imageList">imageList</string>
 
-    <string name="email_subject">Consulta </string>
+    <string name="email_subject">Consulta</string>
     <string name="email_text">Hola\nVi el producto _________ y me gustaría que me contactasen al siguiente número ___________.\nQuedo atento. </string>
 
     <string name="fab">fab</string>

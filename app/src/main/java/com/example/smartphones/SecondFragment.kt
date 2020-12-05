@@ -64,7 +64,7 @@ class SecondFragment : Fragment() {
 
         view.findViewById<FloatingActionButton>(R.id.fab).setOnClickListener {
             val addresses = "info@plaplix.cl"
-            val subject = getString(R.string.email_subject) + nameSmartphone + " id " + idSmartphone
+            val subject = getString(R.string.email_subject) + " " + nameSmartphone + " id " + idSmartphone
             val text = getString(R.string.email_text)
             composeEmail(addresses, subject, text)
         }
